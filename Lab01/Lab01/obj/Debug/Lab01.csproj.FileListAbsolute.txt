@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\AndrewJ5457\IT1050-AndrewJaye\IT1050-AndrewJaye\Lab01\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\andre\source\repos\AndrewJ5457\IT1050-AndrewJaye\IT1050-AndrewJaye\Lab01\Lab01\bin\Debug\Lab01.exe
+C:\Users\andre\source\repos\AndrewJ5457\IT1050-AndrewJaye\IT1050-AndrewJaye\Lab01\Lab01\bin\Debug\Lab01.pdb
+C:\Users\andre\source\repos\AndrewJ5457\IT1050-AndrewJaye\IT1050-AndrewJaye\Lab01\Lab01\obj\Debug\Lab01.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\AndrewJ5457\IT1050-AndrewJaye\IT1050-AndrewJaye\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\AndrewJ5457\IT1050-AndrewJaye\IT1050-AndrewJaye\Lab01\Lab01\obj\Debug\Lab01.exe
+C:\Users\andre\source\repos\AndrewJ5457\IT1050-AndrewJaye\IT1050-AndrewJaye\Lab01\Lab01\obj\Debug\Lab01.pdb
