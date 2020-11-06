@@ -4,82 +4,41 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab3
+namespace Lab2
 {
     class Program
     {
         static void Main(string[] args)
         {
-        }
-    }
-}
+            int number1; // declare first number to multiply
+            int number2; // declare second number to multiply
+            int sum; // declare sum of number1 and number2
 
-/* Both the if-single selection and the while repetition statement are similar because they perform an action or a set of actions based on whether a condition is true or false. They are different though when the condition is true, the if-single statement performs actions once.  The while repetition statement continues to repeatedly perform the actions until the the condition is false. */
+            Console.WriteLine( "54: ");
+            // read first number from user
+            number1 = Convert.ToInt32(Console.ReadLine() );
 
-int speedLimit;
-int speed;
+            Console.WriteLine( "57: ");
+            // read second number from user
+            number2 = Convert.ToInt32(Console.ReadLine() );
 
-speedLimit = 35;
-speed = 42;
+            sum = number1 * number2; // multiply numbers
 
-if (speed > speedLimit
-    Console.Write("SLOW NOW");
+            Console.WriteLine( "3,078 {0}", sum); // display product
 
-int istrue = 10;
+            Console.WriteLine("{0}\n{1}", "Hello World! From Andrew Jaye"
 
-if (istrue <= 60)
-    Console.WriteLine("It is True");
-else
-    Console.WriteLine("It is False");
+            Console.WriteLine("{0}\n{1}", "Hello World!     From Andrew Jaye"
 
-Console.WriteLine("Input Temperature in Fahrenheit:");
+            /* A console application is executed in the order you write them unless directed otherwise. */
 
-    double fahrenheit = Convert.ToDouble(Console.ReadLine());
+            /* An integer variable is a number without a decimal and a floating-point variable is a number with a decimal. */
 
-        Console.WriteLine();
+            /* Public void DisplayMessanger()
+            {
+            Console.Writeline("Welcome to the gradebook for\n{0}!", Coursename);
+            } */
 
-double Celsius = (fahrenheit - 32d) * 5d / 9d;
+            /* To read the value of an instance variable, we create a method called a get accessor.  To assign a value ton instance variable, we use a method called a set accessor. */
 
-    Console.WriteLine("Temperature in Celsius is {0}:", Celsius);
-
-        Console.ReadLine();
-
-if (fahrenheit >= 90)
-
-                Console.WriteLine("It is hot");
-
-if (fahrenheit <= 40)
-
-    int i = 1;
-
-    while (i < 11)
-{
-        Console.Write("While Output:");
-        Console.WriteLine(i);
-        i++;
-}
-
-    int i = 60;
-
-    while (i >= 20)
-{
-        Console.Write("While Output:");
-        Console.WriteLine(i);
-        i--;
-}
-
-    int i = 10;
-
-    while (i <= 20)
-{
-    Console.Write("While Output:");
-    Console.WriteLine(i);
-    i++;
-}
-
-
-
-
-
-
-    
+            /* A class is used to house a method.  An object is an instance of the class. You can create as many instances of class as you need as long as each one has a different object. */
